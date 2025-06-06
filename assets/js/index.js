@@ -1,4 +1,4 @@
-precio = 400000
+precio = 1200000
 
 precioSpan = document.querySelector(".precio-inicial");
 precioSpan.innerHTML = precio

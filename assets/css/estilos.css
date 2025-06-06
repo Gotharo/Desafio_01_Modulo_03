@@ -25,12 +25,20 @@ body {
 }
 
 .card .img-card {
-    height: 100px;
-    background-image: url("https://www.amd.com/system/files/2020-05/461767_MSI_Bravo_17_AMD_laptop_1260x709_0.png");
+    /* height: 200px; */
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center ;
+    
 }
+.img-laptop {
+    width: 100%;
+    height: 100%;
+    object-fit: contain; /* O usa 'cover' si quieres que recorte para llenar */
+    display: block; 
+    
+    }
+
 
 .card input {
     width: 80%;
