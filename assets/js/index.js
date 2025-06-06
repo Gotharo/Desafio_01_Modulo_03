@@ -5,13 +5,13 @@ precioSpan.innerHTML = precio
 
 let count = 0;
 
-document.querySelector("#btnPlus").addEventListener("click", () => {
+document.querySelector("#btn-add").addEventListener("click", () => {
     count++;
     document.querySelector(".cantidad").innerHTML = count;
     document.querySelector(".valor-total").innerHTML = count * precio;
 });
 
-document.querySelector("#boton-restar").addEventListener("click", () => {
+document.querySelector("#btn-subtract").addEventListener("click", () => {
     if (count > 0) {
         count--;
         document.querySelector(".cantidad").innerHTML = count;
