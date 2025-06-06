@@ -17,7 +17,7 @@ body {
     height: 270px;
     border-radius: 5px;
     box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, 0.692);
-    background: #7ba238;
+    background: rgb(83, 83, 83);
     padding: 20px;
     display: flex;
     flex-direction: column;
