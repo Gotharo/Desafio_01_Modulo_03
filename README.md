@@ -1,4 +1,4 @@
-<h2> Deploy de la pagina [https://gotharo.github.io/Prueba-Final-Modulo-02/](https://gotharo.github.io/Desafio_01_Modulo_03/)</h2>
+<h2> Deploy de la página https://gotharo.github.io/Desafio_01_Modulo_03/ </h2>
 
 
 <h1> Desafio_01, Modulo_03 JavaScript </h1>
