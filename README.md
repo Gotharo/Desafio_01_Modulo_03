@@ -1,7 +1,6 @@
 <h1> Desafio_01, Modulo_03 JavaScript </h1>
 <br> 
-<h2> Deploy de la página https://gotharo.github.io/Desafio_01_Modulo_03</h2>
-<br>
+
 
 
 
